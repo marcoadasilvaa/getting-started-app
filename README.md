@@ -10,4 +10,3 @@ Run:
 yarn install
 node src/index.js
 ```
-# getting-started-app
